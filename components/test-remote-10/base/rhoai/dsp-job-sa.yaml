@@ -1,0 +1,4 @@
+kind: ServiceAccount
+apiVersion: v1
+metadata:
+  name: test-remote-10-dsp-job
